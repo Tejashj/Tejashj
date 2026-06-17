@@ -1,8 +1,7 @@
 # Tejas H J
 
 Robotics & AI @ Bangalore Institute of Technology
-
-Full Stack Developer at Xnotch. President of RoboCell. Building products across AI, healthcare, IoT, and civic technology.
+Building products across AI, healthcare, IoT, and civic technology.
 
 ## Selected Work
 
