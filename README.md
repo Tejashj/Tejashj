@@ -143,10 +143,10 @@ echo "📍 Bengaluru, India"
 ```python
 def engineering_philosophy():
     """
-    I don't build demos. 
-    I engineer production-grade systems 
+    I don't build demos.
+    I engineer production-grade systems
     that survive at scale.
-    
+
     Build. Break. Learn. Scale.
     """
     while True:
