@@ -69,13 +69,12 @@
 
 ---
 
-## Let's Build
+## Let's Connect and Build
 
 ```
 📧 tejashj527@gmail.com
-📱 +91-7892942557
-🔗 linkedin.com/in/tejas-h-j
-🐙 github.com/tejas-h-j
+🔗 https://www.linkedin.com/in/tejas-h-j-784a54367
+🐙 https://github.com/Tejashj
 📍 Bengaluru, India
 ```
 
