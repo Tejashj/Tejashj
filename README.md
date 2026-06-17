@@ -16,9 +16,6 @@ type Engineer = {
 current_roles:
   - role: "Full Stack Developer"
     org: "Xnotch"
-  - role: "President"
-    org: "RoboCell, BIT"
-    details: "150+ member robotics department"
   - role: "UI/UX Designer"
     org: "Citrine"
   - role: "Intern"
@@ -53,14 +50,14 @@ current_roles:
 
 ```javascript
 const techStack = {
-  frontend: ["Flutter", "React", "Next.js", "Dart", "TypeScript", "JavaScript"],
-  backend: ["Node.js", "FastAPI", ".NET Core", "Express", "GraphQL", "REST"],
-  ai_ml: ["TensorFlow", "PyTorch", "OpenCV", "RAG", "LangChain", "SpaCy", "LLMs"],
-  iot_embedded: ["ESP32", "Arduino", "Raspberry Pi", "NodeMCU", "MQTT", "BLE", "RTOS"],
-  database: ["Firebase", "Supabase", "PostgreSQL", "MongoDB", "Firestore"],
-  cloud: ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
-  design: ["Figma", "Blender", "AutoCAD", "Fusion 360", "Unity", "C#"],
-  devops: ["Git", "Docker", "Linux", "CI/CD", "Azure AI Foundry", "VS Code"]
+  frontend: ["Flutter", "React", "Next.js", "Dart", "TypeScript", "JavaScript", "Tailwind CSS"],
+  backend: ["Node.js", "FastAPI", ".NET Core", "Express", "GraphQL", "REST", "WebSockets"],
+  ai_ml: ["TensorFlow", "PyTorch", "OpenCV", "RAG", "LangChain", "SpaCy", "LLMs", "NLP"],
+  iot_embedded: ["ESP32", "Arduino", "Raspberry Pi", "NodeMCU", "MQTT", "BLE", "RTOS", "Zephyr"],
+  database: ["Firebase", "Supabase", "PostgreSQL", "MongoDB", "Redis", "Firestore", "Prisma"],
+  cloud: ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "GitHub Actions", "CI/CD"],
+  design: ["Figma", "Blender", "AutoCAD", "Fusion 360", "Unity", "C#", "3D Modeling"],
+  tools: ["Git", "Linux", "VS Code", "Android Studio", "Postman", "Jupyter", "Azure AI Foundry"]
 };
 ```
 
