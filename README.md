@@ -1,16 +1,25 @@
-## Hi there 👋
+# Tejas H J
 
-<!--
-**Tejashj/Tejashj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics & AI @ Bangalore Institute of Technology
 
-Here are some ideas to get you started:
+Full Stack Developer at Xnotch. President of RoboCell. Building products across AI, healthcare, IoT, and civic technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Work
+
+- Maternal Healthcare & Fetal Monitoring Ecosystem
+- Chiguru — IoT Health Informatics Platform
+- Smart Bus Dispatch & Urban Mobility System
+- Cricket Auction Price Prediction Engine
+
+## Recognition
+
+HacXerve • Anveshana 2025 • Intellify 3.0 • Hacksprint 5.0 • KalpAIthon
+
+## Stack
+
+Flutter · React · Node.js · FastAPI · Python · Firebase · Supabase · AI/ML · ESP32
+
+## Links
+
+- LinkedIn: linkedin.com/in/tejas-h-j-784a54367
+- Email: tejashj527@gmail.com
