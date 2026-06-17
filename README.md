@@ -1,175 +1,112 @@
-# ⚡ Tejas H J
+# Tejas H J
 
-```typescript
-type Engineer = {
-  role: "Full Stack Developer" | "Robotics & AI Engineer";
-  mission: "Building production-grade systems at the intersection of AI, healthcare, robotics, and edge computing";
-  status: "Architecting" | "Building" | "Scaling";
-};
+Building intelligent systems across AI, healthcare, embedded computing, and full-stack applications.
+
+Full Stack Developer @ Xnotch • Building Prinz
+
+---
+
+### Areas of Interest
+
+* Artificial Intelligence
+* Computer Vision
+* Retrieval-Augmented Systems (RAG)
+* Embedded & IoT Systems
+* Healthcare Informatics
+* Edge Computing
+* Distributed Applications
+* Product Engineering
+
+---
+
+### Stack
+
+```txt
+Languages
+Python • C++ • Java • Dart • SQL • C
+
+Frontend
+Flutter • React
+
+Backend
+Node.js • FastAPI • Firebase • Supabase
+
+AI / ML
+TensorFlow • OpenCV • SpaCy • RAG
+
+Embedded
+ESP32 • Arduino • Raspberry Pi • NodeMCU
+
+Design & Simulation
+Figma • Blender • Fusion 360 • AutoCAD • Unity
 ```
 
 ---
 
-## 🚀 Active Context
+### Selected Projects
 
-```yaml
-current_roles:
-  - role: "Full Stack Developer"
-    org: "Xnotch"
-  - role: "UI/UX Designer"
-    org: "Citrine"
-  - role: "Intern"
-    org: "HAL (ARDC)"
+#### Maternal Healthcare & Fetal Monitoring Ecosystem
+
+AI-assisted healthcare platform integrating computer vision, biometric sensing, offline diagnostics, and real-time monitoring.
+
+#### Chiguru
+
+IoT health informatics platform combining multi-sensor fusion, embedded systems, and multilingual AI-powered health assistance.
+
+#### Smart Bus Dispatch & Urban Mobility System
+
+Predictive dispatch platform leveraging IoT and real-time commuter analytics for urban transport optimization.
+
+#### Unity-Flutter Surveillance Simulation
+
+3D security simulation featuring autonomous agents, pathfinding, and real-time vulnerability visualization.
+
+#### Cricket Auction Price Prediction Engine
+
+Machine learning system for player valuation and bidding analytics using historical performance data.
+
+---
+
+### Recognition
+
+* Winner — HacXerve
+* Winner — Anveshana 2025
+* Winner — Intellify 3.0
+* Winner — Hacksprint 5.0
+* Winner — KalpAIthon
+* Runner-Up — Hack To Crack 2.0
+* IEEE National Hackathon Finalist & Top 10 @ Confluence
+
+---
+
+### Currently Exploring
+
+```txt
+AI Systems
+├─ Multi-Agent Architectures
+├─ Retrieval-Augmented Workflows
+└─ Knowledge-Centric Applications
+
+Edge Intelligence
+├─ On-Device AI
+├─ Sensor Fusion
+└─ Embedded Decision Systems
+
+Scalable Engineering
+├─ Distributed Architectures
+├─ Real-Time Systems
+└─ Production Infrastructure
 ```
 
 ---
 
-## 🏆 Achievement Log
-
-```json
-{
-  "national_wins": 5,
-  "competitions": [
-    "HacXerve",
-    "Anveshana 2025",
-    "Intellectly 3.0",
-    "Hacksprint 5.0",
-    "KalpAIthon"
-  ],
-  "notable": [
-    "IEEE National Runner-up",
-    "Top 10 @ Confluence",
-    "Hack to Crack 2.0 Runner-up"
-  ]
-}
-```
-
----
-
-## 🛠️ Tech Stack
-
-```javascript
-const techStack = {
-  frontend: ["Flutter", "React", "Next.js", "Dart", "TypeScript", "JavaScript", "Tailwind CSS"],
-  backend: ["Node.js", "FastAPI", ".NET Core", "Express", "GraphQL", "REST", "WebSockets"],
-  ai_ml: ["TensorFlow", "PyTorch", "OpenCV", "RAG", "LangChain", "SpaCy", "LLMs", "NLP"],
-  iot_embedded: ["ESP32", "Arduino", "Raspberry Pi", "NodeMCU", "MQTT", "BLE", "RTOS", "Zephyr"],
-  database: ["Firebase", "Supabase", "PostgreSQL", "MongoDB", "Redis", "Firestore", "Prisma"],
-  cloud: ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "GitHub Actions", "CI/CD"],
-  design: ["Figma", "Blender", "AutoCAD", "Fusion 360", "Unity", "C#", "3D Modeling"],
-  tools: ["Git", "Linux", "VS Code", "Android Studio", "Postman", "Jupyter", "Azure AI Foundry"]
-};
-```
-
----
-
-## 📦 Featured Projects
-
-```python
-class Project:
-    def __init__(self, name, stack, description):
-        self.name = name
-        self.stack = stack
-        self.description = description
-
-projects = [
-    Project(
-        name="Maternal Healthcare & Fetal Monitoring",
-        stack=["ESP32", "TensorFlow", "FastAPI", "Flutter", "OpenCV"],
-        description="End-to-end fetal detection + offline rural healthcare tracking with biometric sensor fusion"
-    ),
-    Project(
-        name="Unity-Flutter Surveillance Simulation",
-        stack=["Unity", "C#", "Flutter", "Dart", "3D Physics"],
-        description="Guard-thief autonomous agents with real-time security vulnerability visualization"
-    ),
-    Project(
-        name="Smart Bus Dispatch & Urban Mobility",
-        stack=["ESP32", "Firebase", "Predictive Models", "IoT"],
-        description="AI-driven fleet optimization reducing traffic congestion through commuter density prediction"
-    ),
-    Project(
-        name="Chiguru: Decentralized IoT Health Informatics",
-        stack=["C++", "ESP32", "Flutter", "RAG", "Sensor Fusion"],
-        description="Multi-sensor ECG/SpO2 fusion with multilingual RAG-powered health insights"
-    ),
-    Project(
-        name="Cricket Auction Price Prediction Engine",
-        stack=["Python", "Gradient Boosting", "Streamlit", "ML Pipeline"],
-        description="Leak-free temporal training pipeline with real-time bidding analytics"
-    )
-]
-```
-
----
-
-## 🧠 Current Research
-
-```go
-package main
-
-type FocusArea struct {
-    Topic     string
-    Priority  int
-}
-
-func main() {
-    focus := []FocusArea{
-        {"Multi-Agent Systems Architecture", 1},
-        {"On-Device AI & Edge Inference", 2},
-        {"Healthcare Intelligence Platforms", 3},
-        {"Distributed Systems at Scale", 4},
-        {"RAG-Enhanced Knowledge Systems", 5},
-    }
-}
-```
-
----
-
-## 📡 Connect
+### Contact
 
 ```bash
-#!/bin/bash
-echo "📧 tejashj527@gmail.com"
-echo "🔗 https://www.linkedin.com/in/tejas-h-j-784a54367"
-echo "🐙 https://github.com/Tejashj"
-echo "📍 Bengaluru, India"
+email    = "tejashj527@gmail.com"
+linkedin = "linkedin.com/in/tejas-h-j-784a54367"
+github   = "github.com/Tejashj"
+location = "Bengaluru, India"
 ```
 
----
-
-## ⚡ Philosophy
-
-```python
-def engineering_philosophy():
-    """
-    I don't build demos.
-    I engineer production-grade systems
-    that survive at scale.
-
-    Build. Break. Learn. Scale.
-    """
-    while True:
-        build()
-        break()
-        learn()
-        scale()
-```
-
----
-
-```sql
--- Current Status
-SELECT '🚀 Architecting' AS status,
-       '🤝 Open to Collaborate' AS collaboration,
-       '📈 Always Scaling' AS trajectory;
-```
-
----
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  ⚡ STATUS: ARCHITECTING  │  🤝 OPEN: COLLABORATIONS      │
-│  📈 TRAJECTORY: SCALING   │  🎯 FOCUS: PRODUCTION SYSTEMS │
-└─────────────────────────────────────────────────────────────┘
-```
+> Build useful things. Ship them. Measure impact. Repeat.
