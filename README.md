@@ -1,8 +1,4 @@
-Here's the enhanced, punchier version:
-
----
-
-# ⚡ Tejas H J
+# Tejas H J
 
 **Full Stack Developer** · **Robotics & AI Engineer**
 
